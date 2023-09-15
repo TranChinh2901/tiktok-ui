@@ -9,6 +9,7 @@
     //Default Layout
     --default-layout-header-height: 60px;
     --default-layout-width: 1150px;
+    --default-layout-horizontal-spacer: 24px;
 }
 
 html {
@@ -21,7 +22,7 @@ html {
 }
 
 body {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'proxima-nova', sans-serif;;
     font-size: 1.6rem;
     line-height: 1.5;
     text-rendering: optimizeSpeed;
